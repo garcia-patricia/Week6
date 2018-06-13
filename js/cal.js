@@ -17,10 +17,12 @@
 	//console.log(outcome);
 
 
-	//Functions
+	//Functions instructions when trigger is hit
 	function addStuff() {
 		// console.log("from addStuff");
-		
+		// document.getElementById('input1').value;
+		console.log("num1.value");
+		console.log("num2.value");
 	}
 
 
