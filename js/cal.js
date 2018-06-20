@@ -11,10 +11,16 @@
 	var equals = document.querySelector("#trigger");
 
 	var outcome = document.querySelector("#value");
+
+	var selPlus = document.querySelector("#plus");
+
+	var selMinus = document.querySelector('#minus');
 	//console.log(num1);
 	//console.log(num2);
 	//console.log(equals);
 	//console.log(outcome);
+	//console.log(selMinus);
+	// console.log(selPlus); 
 
 
 	//Functions instructions when trigger is hit
